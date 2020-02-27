@@ -4,4 +4,4 @@ The script is desinged to complement the instructions at https://dns.he.net/docs
 
 The variable 'password' is for the specific address password
 
-This script was created to create names for ipv6 tunnel therefore they are not very human readable or typeable
+Script created to solve the Routeros Non-DHCPv6 support issue 
