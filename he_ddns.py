@@ -10,14 +10,6 @@ url = "https://dyn.dns.he.net/nic/update"
 password = "PASSWORD"
 
 rootDomain = "<ROOT-DOMAIN>"
-
-
-def to_hex(data):
-    import binascii
-    hex = binascii.hexlify(data.encode('utf-8'))
-    return hex.decode('utf-8')
-
-
 subDomain = "<SUBDOMAIN>"
 
 
